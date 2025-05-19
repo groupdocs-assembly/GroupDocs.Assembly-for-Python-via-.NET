@@ -1,0 +1,9 @@
+{
+   Name: {
+      First : "John", 
+      Last : "Doe"
+   },
+   Age: 30,
+   Birth: "1989-04-01 4:00:00 pm",
+   IsMale: true
+}

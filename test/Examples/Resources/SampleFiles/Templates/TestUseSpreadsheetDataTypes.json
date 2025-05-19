@@ -1,0 +1,867 @@
+{
+    "project": [
+        {
+            "id": "2b6b36c1-e85f-4b8a-a36b-971a55d33df9",
+            "classicGuid": "a56d586d-d352-56c3-27e9-477f807b0317",
+            "name": "MCD / DUNKERQUE (59)",
+            "code": "A12596 SS2",
+            "isDeleted": false,
+            "updatedAt": 1664294825,
+            "phaseName": null,
+            "locationContact": {
+                "nameOwner": null,
+                "name": null,
+                "phone": null
+            },
+            "licenseNumber": "7",
+            "regionCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "type": {
+                "codeId": 12,
+                "classicCode": "MO",
+                "name": "Suivi - Surveillance environnementale",
+                "altName": ""
+            },
+            "enrichmentProject": {
+                "formattedUpdatedAt": "2022-09-27T18:07:05"
+            }
+        }
+    ],
+    "sample": {
+        "id": "983a23d6-0823-44c7-9a33-a797a6ed7715",
+        "filterTubeId": "5b742959-16f3-4bde-8e3b-3ba04b5336da",
+        "classicGuid": "0cac5bb0-b887-4f6e-a87a-2ae84eedd77d",
+        "isDeleted": false,
+        "name": "PzL-L4",
+        "createdAt": 1663232144,
+        "sampledAt": 1663232144,
+        "updatedAt": 1663924813,
+        "remark": null,
+        "fieldSampleProcess": {
+            "sampleTakerSignatureTimestamp": 1664377226,
+            "sampleTakerSignatureJPEG": null,
+            "sampleTaker": "Bernard Dehouck",
+            "samplingConditions": null,
+            "specialFieldConditions": null,
+            "usedDevices": "Mtwister",
+            "atmosphericTemperature": null,
+            "calibrationOxygen": null,
+            "calibrationCarbonDioxide": null,
+            "suctionPointDepth": {
+                "value": 600,
+                "decimals": 0
+            },
+            "recommendedPrepumpValue": null,
+            "samplingMethodCodeOther": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "validatedCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "stoppedCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "waterDumpTypeCode": {
+                "codeId": 7,
+                "classicCode": "7",
+                "name": "Aucun(e)",
+                "altName": ""
+            },
+            "typePIDCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "weatherConditionCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "atmosphericHumidity": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "pumpTypeCode": {
+                "codeId": 5,
+                "classicCode": "5",
+                "name": "Pompe immergée 12V",
+                "altName": ""
+            },
+            "pumpPowerConnectionCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "smokeTubeTestCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "enrichmentFieldSampleProcess": {
+                "formattedSampleTakerSignatureTimestamp": "2022-09-28T17:00:26"
+            }
+        },
+        "tubeMeasurements": {
+            "topFilter": null,
+            "amountPumped": null,
+            "volumeTube": null,
+            "tubeDepth": {
+                "value": 1046,
+                "decimals": 0
+            },
+            "depthPreCleaning": null,
+            "tubeFlushVolume": null,
+            "referenceTubeDepthCode": {
+                "codeId": 5,
+                "classicCode": "PU",
+                "name": "Couvercle de l'ouvrage",
+                "altName": ""
+            },
+            "referenceTopFilterCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "groundwaterLevelBelowFilterCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "inFlowCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oldHoseCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "tubeStateTypeCode": {
+                "codeId": 1,
+                "classicCode": "G",
+                "name": "bon",
+                "altName": ""
+            },
+            "siltingCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "cleanedCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "replenishmentCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "waterFoundCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            }
+        },
+        "technicalFields": {
+            "certificateOrder": null,
+            "sortOrder": 1,
+            "inReports": true,
+            "inExports": true,
+            "ovamId": null
+        },
+        "samplingMeasurements": {
+            "redoxPotential": {
+                "value": -178,
+                "decimals": 0
+            },
+            "phValue": {
+                "value": 6.83,
+                "decimals": 0
+            },
+            "groundwaterLevel": {
+                "value": 339,
+                "decimals": 0
+            },
+            "temperature": {
+                "value": 14.1,
+                "decimals": 0
+            },
+            "pidValue": null,
+            "volumetricFlowRate": {
+                "value": 10,
+                "decimals": 0
+            },
+            "ecValue1": null,
+            "ecValue2": null,
+            "ecValue3": {
+                "value": 6099,
+                "decimals": 0
+            },
+            "ecValueMinute1": null,
+            "ecValueMinute2": null,
+            "ecValueMinute3": null,
+            "oxygen": {
+                "value": 1.6,
+                "decimals": 0
+            },
+            "airPressure": null,
+            "turbidity": null,
+            "standardVoltage": null,
+            "oxygenPercentage": {
+                "value": 16,
+                "decimals": 0
+            },
+            "carbonDioxide": null,
+            "humidityPercent": null,
+            "totalVoltage": null,
+            "explosiveLevelPercent": null,
+            "hydrogenSulfide": null,
+            "startTime": 1664377226,
+            "endTime": 1664377226,
+            "measurementDuration": null,
+            "amountPumped": null,
+            "lowerExplosiveVolumePercent": null,
+            "benzenePID": null,
+            "enrichmentFieldSampleMeasurements": {
+                "formattedStartTime": "2022-09-28T17:00:26",
+                "formattedEndTime": "2022-09-28T17:00:26"
+            }
+        },
+        "preSamplingMeasurements": {
+            "turbidity": null,
+            "volumetricFlowRate": {
+                "value": 10,
+                "decimals": 0
+            },
+            "groundwaterLevel": {
+                "value": 360,
+                "decimals": 0
+            },
+            "startTime": 1663228500,
+            "endTime": 1663229700,
+            "enrichmentFieldSampleMeasurements": {
+                "formattedStartTime": "2022-09-15T09:55:00",
+                "formattedEndTime": "2022-09-15T10:15:00"
+            }
+        },
+        "packagings":
+            {
+                "id": "4f9478fa-6ef0-4e49-959b-d2aff2d7a170",
+                "classicGuid": "7e3e40a5-b1d0-4629-a7df-8a1f8c73dee8",
+                "isDeleted": false,
+                "name": "1",
+                "barCode": "V020421269",
+                "supportReference": null,
+                "remark": null,
+                "updatedAt": 1663924814,
+                "packingTypeCode": {
+                    "codeId": 4,
+                    "classicCode": "FL",
+                    "name": "bouteille/flacon",
+                    "altName": ""
+                },
+                "filteredCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "filterTypeCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "preservingAgentTypeCode": {
+                    "codeId": 1,
+                    "classicCode": "GE",
+                    "name": "Aucun(e)",
+                    "altName": ""
+                },
+                "blankTypeCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "placedInSerie": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "enrichmentPackaging": {
+                    "formattedUpdatedAt": "2022-09-23T11:20:14"
+                }
+            },
+        "series3": {
+            "id": "0200cb70-b1c3-44b7-bdd8-ee36b9a8de63",
+            "classicGuid": "0200cb70-b1c3-44b7-bdd8-ee36b9a8de63",
+            "sequenceNumber": 3,
+            "timeStamp": 1663229100,
+            "seriesMeasurements": {
+                "phValue": {
+                    "value": 6.81,
+                    "decimals": 0
+                },
+                "ecValue3": {
+                    "value": 6283,
+                    "decimals": 0
+                },
+                "redoxPotential": {
+                    "value": -174,
+                    "decimals": 0
+                },
+                "temperature": {
+                    "value": 14.1,
+                    "decimals": 0
+                },
+                "oxygen": {
+                    "value": 1.1,
+                    "decimals": 0
+                },
+                "oxygenPercentage": {
+                    "value": 10.8,
+                    "decimals": 0
+                },
+                "turbidity": null,
+                "volumetricFlowRate": {
+                    "value": 10,
+                    "decimals": 0
+                },
+                "groundwaterLevel": {
+                    "value": 360,
+                    "decimals": 0
+                },
+                "carbonDioxide": null,
+                "hydrogenSulfide": null,
+                "pidValue": null,
+                "airPressure": null,
+                "humidityPercent": null,
+                "explosiveLevelPercent": null,
+                "measurementDuration": null,
+                "amountPumped": null
+            },
+            "colorCodes": {
+                "colorMainCode": {
+                    "codeId": 6,
+                    "classicCode": "GE",
+                    "name": "jaune",
+                    "altName": ""
+                },
+                "colorSubCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorShadeCode": {
+                    "codeId": 1,
+                    "classicCode": "ZL",
+                    "name": "très léger",
+                    "altName": ""
+                }
+            },
+            "odorCodes": {
+                "odorTypeCode": {
+                    "codeId": 67,
+                    "classicCode": "KW",
+                    "name": "hydrocarbure",
+                    "altName": "odeur d'hydrocarbure"
+                },
+                "odorIntensityCode": {
+                    "codeId": 3,
+                    "classicCode": "2",
+                    "name": "moyenne",
+                    "altName": ""
+                }
+            },
+            "clarityCode": {
+                "codeId": 11,
+                "classicCode": "11",
+                "name": "Gemiddeld",
+                "altName": ""
+            },
+            "tubeDryCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oilWaterReactionCode": {
+                "codeId": 2,
+                "classicCode": "N",
+                "name": "Non",
+                "altName": ""
+            },
+            "enrichmentSeries": {
+                "formattedTimeStamp": "2022-09-15T10:05:00",
+                "formattedUpdatedAt": null
+            }
+        },
+        "series4": {
+            "id": "4de9fcfe-5672-4810-bb47-ab942090df07",
+            "classicGuid": "4de9fcfe-5672-4810-bb47-ab942090df07",
+            "sequenceNumber": 4,
+            "timeStamp": 1663229400,
+            "seriesMeasurements": {
+                "phValue": {
+                    "value": 6.83,
+                    "decimals": 0
+                },
+                "ecValue3": {
+                    "value": 6159,
+                    "decimals": 0
+                },
+                "redoxPotential": {
+                    "value": -177,
+                    "decimals": 0
+                },
+                "temperature": {
+                    "value": 14.1,
+                    "decimals": 0
+                },
+                "oxygen": {
+                    "value": 1.4,
+                    "decimals": 0
+                },
+                "oxygenPercentage": {
+                    "value": 14,
+                    "decimals": 0
+                },
+                "turbidity": null,
+                "volumetricFlowRate": {
+                    "value": 10,
+                    "decimals": 0
+                },
+                "groundwaterLevel": {
+                    "value": 360,
+                    "decimals": 0
+                },
+                "carbonDioxide": null,
+                "hydrogenSulfide": null,
+                "pidValue": null,
+                "airPressure": null,
+                "humidityPercent": null,
+                "explosiveLevelPercent": null,
+                "measurementDuration": null,
+                "amountPumped": null
+            },
+            "colorCodes": {
+                "colorMainCode": {
+                    "codeId": 6,
+                    "classicCode": "GE",
+                    "name": "jaune",
+                    "altName": ""
+                },
+                "colorSubCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorShadeCode": {
+                    "codeId": 1,
+                    "classicCode": "ZL",
+                    "name": "très léger",
+                    "altName": ""
+                }
+            },
+            "odorCodes": {
+                "odorTypeCode": {
+                    "codeId": 67,
+                    "classicCode": "KW",
+                    "name": "hydrocarbure",
+                    "altName": "odeur d'hydrocarbure"
+                },
+                "odorIntensityCode": {
+                    "codeId": 3,
+                    "classicCode": "2",
+                    "name": "moyenne",
+                    "altName": ""
+                }
+            },
+            "clarityCode": {
+                "codeId": 11,
+                "classicCode": "11",
+                "name": "Gemiddeld",
+                "altName": ""
+            },
+            "tubeDryCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oilWaterReactionCode": {
+                "codeId": 2,
+                "classicCode": "N",
+                "name": "Non",
+                "altName": ""
+            },
+            "enrichmentSeries": {
+                "formattedTimeStamp": "2022-09-15T10:10:00",
+                "formattedUpdatedAt": null
+            }
+        },
+        "series2": {
+            "id": "f23f0fd0-e3da-49d6-9051-1864ed53ed3a",
+            "classicGuid": "f23f0fd0-e3da-49d6-9051-1864ed53ed3a",
+            "sequenceNumber": 2,
+            "timeStamp": 1663228800,
+            "seriesMeasurements": {
+                "phValue": {
+                    "value": 6.79,
+                    "decimals": 0
+                },
+                "ecValue3": {
+                    "value": 6330,
+                    "decimals": 0
+                },
+                "redoxPotential": {
+                    "value": -169,
+                    "decimals": 0
+                },
+                "temperature": {
+                    "value": 14.1,
+                    "decimals": 0
+                },
+                "oxygen": {
+                    "value": 0.99,
+                    "decimals": 0
+                },
+                "oxygenPercentage": {
+                    "value": 9.6,
+                    "decimals": 0
+                },
+                "turbidity": null,
+                "volumetricFlowRate": {
+                    "value": 10,
+                    "decimals": 0
+                },
+                "groundwaterLevel": {
+                    "value": 360,
+                    "decimals": 0
+                },
+                "carbonDioxide": null,
+                "hydrogenSulfide": null,
+                "pidValue": null,
+                "airPressure": null,
+                "humidityPercent": null,
+                "explosiveLevelPercent": null,
+                "measurementDuration": null,
+                "amountPumped": null
+            },
+            "colorCodes": {
+                "colorMainCode": {
+                    "codeId": 6,
+                    "classicCode": "GE",
+                    "name": "jaune",
+                    "altName": ""
+                },
+                "colorSubCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorShadeCode": {
+                    "codeId": 1,
+                    "classicCode": "ZL",
+                    "name": "très léger",
+                    "altName": ""
+                }
+            },
+            "odorCodes": {
+                "odorTypeCode": {
+                    "codeId": 67,
+                    "classicCode": "KW",
+                    "name": "hydrocarbure",
+                    "altName": "odeur d'hydrocarbure"
+                },
+                "odorIntensityCode": {
+                    "codeId": 3,
+                    "classicCode": "2",
+                    "name": "moyenne",
+                    "altName": ""
+                }
+            },
+            "clarityCode": {
+                "codeId": 11,
+                "classicCode": "11",
+                "name": "Gemiddeld",
+                "altName": ""
+            },
+            "tubeDryCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oilWaterReactionCode": {
+                "codeId": 2,
+                "classicCode": "N",
+                "name": "Non",
+                "altName": ""
+            },
+            "enrichmentSeries": {
+                "formattedTimeStamp": "2022-09-15T10:00:00",
+                "formattedUpdatedAt": null
+            }
+        },
+        "series1": {
+            "id": "1e8ea6b2-34d2-44ec-89b0-64acab7cf7df",
+            "classicGuid": "1e8ea6b2-34d2-44ec-89b0-64acab7cf7df",
+            "sequenceNumber": 1,
+            "timeStamp": 1663228560,
+            "seriesMeasurements": {
+                "phValue": {
+                    "value": 7.24,
+                    "decimals": 0
+                },
+                "ecValue3": {
+                    "value": 4202,
+                    "decimals": 0
+                },
+                "redoxPotential": {
+                    "value": -174,
+                    "decimals": 0
+                },
+                "temperature": {
+                    "value": 14.9,
+                    "decimals": 0
+                },
+                "oxygen": {
+                    "value": 3.04,
+                    "decimals": 0
+                },
+                "oxygenPercentage": {
+                    "value": 27,
+                    "decimals": 0
+                },
+                "turbidity": null,
+                "volumetricFlowRate": {
+                    "value": 10,
+                    "decimals": 0
+                },
+                "groundwaterLevel": {
+                    "value": 360,
+                    "decimals": 0
+                },
+                "carbonDioxide": null,
+                "hydrogenSulfide": null,
+                "pidValue": null,
+                "airPressure": null,
+                "humidityPercent": null,
+                "explosiveLevelPercent": null,
+                "measurementDuration": null,
+                "amountPumped": null
+            },
+            "colorCodes": {
+                "colorMainCode": {
+                    "codeId": 6,
+                    "classicCode": "GE",
+                    "name": "jaune",
+                    "altName": ""
+                },
+                "colorSubCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorShadeCode": {
+                    "codeId": 1,
+                    "classicCode": "ZL",
+                    "name": "très léger",
+                    "altName": ""
+                }
+            },
+            "odorCodes": {
+                "odorTypeCode": {
+                    "codeId": 67,
+                    "classicCode": "KW",
+                    "name": "hydrocarbure",
+                    "altName": "odeur d'hydrocarbure"
+                },
+                "odorIntensityCode": {
+                    "codeId": 3,
+                    "classicCode": "2",
+                    "name": "moyenne",
+                    "altName": ""
+                }
+            },
+            "clarityCode": {
+                "codeId": 11,
+                "classicCode": "11",
+                "name": "Gemiddeld",
+                "altName": ""
+            },
+            "tubeDryCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oilWaterReactionCode": {
+                "codeId": 2,
+                "classicCode": "N",
+                "name": "Non",
+                "altName": ""
+            },
+            "enrichmentSeries": {
+                "formattedTimeStamp": "2022-09-15T09:56:00",
+                "formattedUpdatedAt": null
+            }
+        },
+        "series5": {
+            "id": "c74057a8-e998-465b-a2d1-a303ab6e31f0",
+            "classicGuid": "c74057a8-e998-465b-a2d1-a303ab6e31f0",
+            "sequenceNumber": 5,
+            "timeStamp": 1663229640,
+            "seriesMeasurements": {
+                "phValue": null,
+                "ecValue3": null,
+                "redoxPotential": null,
+                "temperature": null,
+                "oxygen": null,
+                "oxygenPercentage": null,
+                "turbidity": null,
+                "volumetricFlowRate": null,
+                "groundwaterLevel": null,
+                "carbonDioxide": null,
+                "hydrogenSulfide": null,
+                "pidValue": null,
+                "airPressure": null,
+                "humidityPercent": null,
+                "explosiveLevelPercent": null,
+                "measurementDuration": null,
+                "amountPumped": null
+            },
+            "colorCodes": {
+                "colorMainCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorSubCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "colorShadeCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                }
+            },
+            "odorCodes": {
+                "odorTypeCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                },
+                "odorIntensityCode": {
+                    "classicCode": null,
+                    "name": null,
+                    "altName": null,
+                    "codeId": null
+                }
+            },
+            "clarityCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "tubeDryCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "oilWaterReactionCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "enrichmentSeries": {
+                "formattedTimeStamp": "2022-09-15T10:14:00",
+                "formattedUpdatedAt": null
+            }
+        },
+        "samplingLocationDescription": {
+            "surfaceWaterFlowTypeCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            },
+            "surfaceWaterFlowRateCode": {
+                "classicCode": null,
+                "name": null,
+                "altName": null,
+                "codeId": null
+            }
+        },
+        "relatedSchemaData": [
+            {
+                "relationId": "db0ec697-6e8d-409f-84f4-ee394e803972",
+                "schemaType": "MeasurementObject",
+                "relationType": "UsedIn"
+            },
+            {
+                "relationId": "a2eff860-5bb3-4b41-9f80-4fa88ea3cddd",
+                "schemaType": "AnalysisSample",
+                "relationType": "Contains"
+            }
+        ],
+        "licenseNumber": "7",
+        "matrixTypeCode": {
+            "codeId": 2,
+            "classicCode": "GW",
+            "name": "eau souterraine",
+            "altName": ""
+        },
+        "enrichmentSample": {
+            "formattedCreatedAt": "2022-09-15T10:55:44",
+            "formattedSampledAt": "2022-09-15T10:55:44",
+            "formattedUpdatedAt": "2022-09-23T11:20:13",
+            "locationVisitIds": []
+        }
+    }
+}

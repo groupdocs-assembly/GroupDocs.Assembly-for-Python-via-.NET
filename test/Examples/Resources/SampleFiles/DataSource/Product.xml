@@ -1,0 +1,8 @@
+<Product>
+    <Discount>0</Discount>
+    <ProductID>1</ProductID>
+    <ProductName>LG Nexus 5</ProductName>
+    <ProductPrice>350</ProductPrice>
+    <UnitsInStock>5</UnitsInStock>
+	<Barcode>123456789qwertyu0025</Barcode>
+  </Product>
